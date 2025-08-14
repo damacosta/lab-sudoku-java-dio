@@ -56,7 +56,7 @@ public class Main {
         }
     }
 
-    private static <R> void startGame(R positions) {
+    private static <R> void startGame(Map<String, String> positions) {
         if (nonNull(board)) {
             System.out.println("O jogo já foi iniciado");
             return;

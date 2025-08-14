@@ -1,7 +1,5 @@
 package br.com.dio.model;
 
-package br.com.dio.model;
-
 import java.util.Collection;
 import java.util.List;
 
