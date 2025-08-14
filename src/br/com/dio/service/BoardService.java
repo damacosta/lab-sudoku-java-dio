@@ -1,5 +1,13 @@
 package br.com.dio.service;
 
+import br.com.dio.model.Board;
+import br.com.dio.model.Space;
+import br.com.dio.model.GameStatusEnum;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
 public class BoardService {
     private final static int BOARD_LIMIT = 9;
 
